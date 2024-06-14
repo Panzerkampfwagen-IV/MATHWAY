@@ -1,1 +1,1 @@
-# MATHWAY
+# symbolab
